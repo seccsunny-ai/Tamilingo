@@ -1,0 +1,6 @@
+{
+  "name": "Tamilingo - Conversational Spoken Tamil",
+  "description": "Learn conversational spoken Tamil through interactive listening, speaking, and pronunciation practice in Duolingo style with Romanized transliteration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
